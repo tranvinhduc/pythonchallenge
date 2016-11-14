@@ -1,3 +1,3 @@
 # Python Challenge
 
-learn Python by a stupid way. 
+learn Python by  stupid way. 
